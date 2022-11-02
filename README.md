@@ -1,2 +1,2 @@
 # CI-CD
-CI-CD exercises with Jenkins
+Introductory exercises for Jenkins
